@@ -40,7 +40,7 @@
         <mock.version>1.10.19</mock.version>
         <powermock.version>1.6.6</powermock.version>
         <log4j.version>2.0-alpha2</log4j.version>
-        <jetty.version>9.4.0.RC2</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
 
         <!-- plugins -->
         <mvn.plugin.java.compiler.version>3.6.0</mvn.plugin.java.compiler.version>
